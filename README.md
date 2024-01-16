@@ -1,7 +1,7 @@
 ## Inventory Manager
 
-Use the /morse <text> command to translate text into Morse
-Use the /unmorse <morse sequence> command to translate morse to text
+Use the /morse <<text>> command to translate text into Morse
+Use the /unmorse <<morse sequence>> command to translate morse to text
 
 ## License
 
