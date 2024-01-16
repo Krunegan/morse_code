@@ -6,4 +6,3 @@ Use the /unmorse <morse sequence> command to translate morse to text
 ## License
 
 * MIT License (MIT) for the code.
-* Attribution 4.0 International (CC BY 4.0) for textures.
