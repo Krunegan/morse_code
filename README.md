@@ -1,4 +1,4 @@
-## Inventory Manager
+## Morse Code
 
 Use the /morse <<text>text> command to translate text into Morse
 Use the /unmorse <<text>morse sequence> command to translate morse to text
